@@ -1,0 +1,48 @@
+body
+{
+    background-color: #000000;
+    color: #00ff00;
+    font-family: Courier New;
+    /*font-family: pigpen;*/
+    font-size: 15px;
+}
+
+td
+{
+    vertical-align: top;
+}
+
+a, a:link, a:visited, a:hover
+{
+   color: #00ff00;
+   font-weight: bold;    
+}
+
+#cli
+{
+    background-color: transparent;
+    color: #00ff00;
+    outline: none;
+    resize: none;
+    border: none; 
+    font-family: Courier New;
+    /*font-family: pigpen;*/
+    font-size: 15px;
+}
+
+#terminal
+{
+    margin-bottom: 15px;
+}
+
+.inverted
+{
+    color: #000000;
+    background-color: #00ff00;
+}
+
+.subtext
+{
+    font-size: 11px;
+    font-style: italic;
+}
