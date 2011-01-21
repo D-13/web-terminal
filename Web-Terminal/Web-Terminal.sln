@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web-Terminal", "U413\Web-Terminal.csproj", "{E024D03C-3074-42D3-8B30-5DBD055EE0C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web-Terminal", "WebTerminal\Web-Terminal.csproj", "{E024D03C-3074-42D3-8B30-5DBD055EE0C4}"
 EndProject
 Global
 	GlobalSection(SubversionScc) = preSolution
