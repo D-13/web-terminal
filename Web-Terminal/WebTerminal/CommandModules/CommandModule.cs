@@ -33,7 +33,7 @@ namespace WebTerminal.CommandModules
                 "In this tutorial I will attempt to demonstrate the functionality of the Web-Terminal open-source project.",
                 " ",
                 "There are three main sections to this tutorial:",
-                "1) The basic fundamentals for how Web-Terminal works and interacts withthe client.",
+                "1) The basic fundamentals for how Web-Terminal works and interacts with the client.",
                 "2) The various objects passed back and forth from client to server and vice versa, as well as their properties.",
                 "3) How Web-Terminal deals with utilities, markup, and on-the-fly client scripting.",
                 " ",
@@ -268,7 +268,7 @@ namespace WebTerminal.CommandModules
                         {
                             Text = msg,
                             InsertAfter = "<br />",
-                            Speed = 15,
+                            Speed = 35,
                             DelayAfter = 2000
                         });
                     }
