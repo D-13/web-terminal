@@ -118,7 +118,7 @@ namespace WebTerminal.CommandModules
                 "Use the activate method to set a current context when you need to. The string contextDisplay is what appears next to the user's command line. This allows you to customize the display to say things like \"Enter Password\" instead of showing the actual context of LOGIN someName PASSWORD which just looks silly to the user.",
                 "Deactivate clears any existing context, including passive ones.",
                 "Backup backs up the current context into its previous context storage.",
-                "Restore overwries the current context with values from its previous context storage, essentially restoring the old context.",
+                "Restore overwrites the current context with values from its previous context storage, essentially restoring the old context.",
                 " ",
                 "The CommandObject is a basic object containing args and a command. It only exists for easy passing of this information between methods in the controller. It is nothing that this tutorial needs to go into in any detail.",
                 " ",
