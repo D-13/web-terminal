@@ -35,7 +35,7 @@ namespace WebTerminal.CommandModules
                 "There are three main sections to this tutorial:",
                 "1) The basic fundamentals for how Web-Terminal works and interacts withthe client.",
                 "2) The various objects passed back and forth from client to server and vice versa, as well as their properties.",
-                "3) How Web-Terminal deals with utlities, markup, and on-the-fly client scripting.",
+                "3) How Web-Terminal deals with utilities, markup, and on-the-fly client scripting.",
                 " ",
                 " ",
                 " ",
