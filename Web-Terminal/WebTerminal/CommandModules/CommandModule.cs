@@ -142,7 +142,7 @@ namespace WebTerminal.CommandModules
                 "{",
                 "     Text = \"My Cool-Typed™ line of text.\",",
                 "     InsertAfter = \"<br />\"",
-                "}",
+                "};",
                 " ",
                 "That is what most of my display objects look like. Now I will show you where to put those display objects in order to get them to the screen, and I'll do that by introducing you to the next custom type.",
                 " ",
